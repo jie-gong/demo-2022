@@ -1,0 +1,2 @@
+rootProject.name = "GJTK12"
+include ':app'
